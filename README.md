@@ -48,6 +48,7 @@ Welcome to the mesmerizing world of this Fish game! Dive into an enchanting 2D U
 
 ## Controls
 - WASD keys: Move the player fish
+- Space bar: Boost
 - Mouse Left Click: Shoot bubbles
 
 ## Credits
