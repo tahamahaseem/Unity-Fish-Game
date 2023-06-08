@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Eatable
+  - Medium
+  - Large
+  - Bound
+  - Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 335798843
+    locked: 0
+  - name: Spit
+    uniqueID: 2947054441
+    locked: 0
+  - name: Background Decor
+    uniqueID: 3680531145
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GameObjects
+    uniqueID: 367740691
+    locked: 0
+  - name: Player
+    uniqueID: 676446109
+    locked: 0
+  - name: Lights
+    uniqueID: 2436306673
+    locked: 0
+  - name: Shadows
+    uniqueID: 2298419231
+    locked: 0
+  - name: Decor
+    uniqueID: 2177116415
+    locked: 0
+  - name: Floor
+    uniqueID: 2396362813
+    locked: 0
+  - name: StatusBars
+    uniqueID: 680518557
+    locked: 0
+  - name: HUD
+    uniqueID: 3712836319
+    locked: 0
+  - name: Fade
+    uniqueID: 2825387887
+    locked: 0

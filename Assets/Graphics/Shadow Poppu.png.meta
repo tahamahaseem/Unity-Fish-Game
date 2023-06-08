@@ -1,0 +1,2510 @@
+fileFormatVersion: 2
+guid: 5660e8732ac5b814ea5bdaee7d7d9199
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1691407666445934530
+    second: Shadow Poppu_0
+  - first:
+      213: 470098248137019800
+    second: Shadow Poppu_1
+  - first:
+      213: 3022630123455136796
+    second: Shadow Poppu_2
+  - first:
+      213: -1468727906075415393
+    second: Shadow Poppu_3
+  - first:
+      213: 96787816544598442
+    second: Shadow Poppu_4
+  - first:
+      213: 7164741563989631602
+    second: Shadow Poppu_5
+  - first:
+      213: -8496899643670854475
+    second: Shadow Poppu_6
+  - first:
+      213: 2985941837703184899
+    second: Shadow Poppu_7
+  - first:
+      213: -8600673249779413682
+    second: Shadow Poppu_8
+  - first:
+      213: -1829695952362533025
+    second: Shadow Poppu_9
+  - first:
+      213: 6317722568866317520
+    second: Shadow Poppu_10
+  - first:
+      213: 3878477642485301695
+    second: Shadow Poppu_11
+  - first:
+      213: -5124995640726765266
+    second: Shadow Poppu_12
+  - first:
+      213: 8958509738707806481
+    second: Shadow Poppu_13
+  - first:
+      213: -1512122593016712598
+    second: Shadow Poppu_14
+  - first:
+      213: 1261609510792877418
+    second: Shadow Poppu_15
+  - first:
+      213: -6944709679623818804
+    second: Shadow Poppu_16
+  - first:
+      213: -517039417348308886
+    second: Shadow Poppu_17
+  - first:
+      213: 3353420463794671362
+    second: Shadow Poppu_18
+  - first:
+      213: 2008371916452421086
+    second: Shadow Poppu_19
+  - first:
+      213: 3781125466028837663
+    second: Shadow Poppu_20
+  - first:
+      213: 6312154897171170457
+    second: Shadow Poppu_21
+  - first:
+      213: -7478561598722594886
+    second: Shadow Poppu_22
+  - first:
+      213: 2047617238062355577
+    second: Shadow Poppu_23
+  - first:
+      213: -6906863500128767351
+    second: Shadow Poppu_24
+  - first:
+      213: -5636349350736312700
+    second: Shadow Poppu_25
+  - first:
+      213: 3788045868389274915
+    second: Shadow Poppu_26
+  - first:
+      213: -8738122521574970708
+    second: Shadow Poppu_27
+  - first:
+      213: 6658226983611856870
+    second: Shadow Poppu_28
+  - first:
+      213: -4324356585262315162
+    second: Shadow Poppu_29
+  - first:
+      213: -8396791848545560968
+    second: Shadow Poppu_0
+  - first:
+      213: -4208075620707252835
+    second: Shadow Poppu_1
+  - first:
+      213: -8103520020859277209
+    second: Shadow Poppu_2
+  - first:
+      213: -4531196770447802241
+    second: Shadow Poppu_3
+  - first:
+      213: 8568979365543485973
+    second: Shadow Poppu_4
+  - first:
+      213: -3393872641026265563
+    second: Shadow Poppu_5
+  - first:
+      213: -7296158943642090190
+    second: Shadow Poppu_6
+  - first:
+      213: 2523156948258966769
+    second: Shadow Poppu_7
+  - first:
+      213: 286921160466325231
+    second: Shadow Poppu_8
+  - first:
+      213: 7912912071206787631
+    second: Shadow Poppu_9
+  - first:
+      213: -7239319487215399217
+    second: Shadow Poppu_10
+  - first:
+      213: -9025760686522792467
+    second: Shadow Poppu_11
+  - first:
+      213: -8252907387278837041
+    second: Shadow Poppu_12
+  - first:
+      213: 6572303714926455936
+    second: Shadow Poppu_13
+  - first:
+      213: 2281100583722090562
+    second: Shadow Poppu_14
+  - first:
+      213: 8848427942884428496
+    second: Shadow Poppu_15
+  - first:
+      213: -4693872886144986025
+    second: Shadow Poppu_16
+  - first:
+      213: -8470145589685544256
+    second: Shadow Poppu_17
+  - first:
+      213: 527599625712953375
+    second: Shadow Poppu_18
+  - first:
+      213: 8878354562476712267
+    second: Shadow Poppu_19
+  - first:
+      213: 2289369649412110042
+    second: Shadow Poppu_20
+  - first:
+      213: -6801997227846630260
+    second: Shadow Poppu_21
+  - first:
+      213: -8114942669354108722
+    second: Shadow Poppu_22
+  - first:
+      213: -6645373649901695550
+    second: Shadow Poppu_23
+  - first:
+      213: 257182369930216130
+    second: Shadow Poppu_24
+  - first:
+      213: 7266627001142313953
+    second: Shadow Poppu_25
+  - first:
+      213: -5088988867463520513
+    second: Shadow Poppu_26
+  - first:
+      213: -4377152262808979288
+    second: Shadow Poppu_27
+  - first:
+      213: -7848985787366623011
+    second: Shadow Poppu_28
+  - first:
+      213: -415757039599376701
+    second: Shadow Poppu_29
+  - first:
+      213: 9029584312671625200
+    second: Shadow Poppu_30
+  - first:
+      213: -886067616334821637
+    second: Shadow Poppu_31
+  - first:
+      213: -560769293455835124
+    second: Shadow Poppu_32
+  - first:
+      213: -3811807107929874551
+    second: Shadow Poppu_33
+  - first:
+      213: 9220713245479032387
+    second: Shadow Poppu_34
+  - first:
+      213: -612879124707416977
+    second: Shadow Poppu_35
+  - first:
+      213: 8024079457844813059
+    second: Shadow Poppu_36
+  - first:
+      213: 1794402744497928042
+    second: Shadow Poppu_37
+  - first:
+      213: -2208905456937610392
+    second: Shadow Poppu_38
+  - first:
+      213: 1838506867840645970
+    second: Shadow Poppu_39
+  - first:
+      213: 458422131948618454
+    second: Shadow Poppu_40
+  - first:
+      213: -7019294521922093772
+    second: Shadow Poppu_41
+  - first:
+      213: 5025592916023589089
+    second: Shadow Poppu_42
+  - first:
+      213: 390283856347347057
+    second: Shadow Poppu_43
+  - first:
+      213: 1403037894107576648
+    second: Shadow Poppu_44
+  - first:
+      213: 8336108254929471313
+    second: Shadow Poppu_45
+  - first:
+      213: 241609580170533497
+    second: Shadow Poppu_46
+  - first:
+      213: -6184588032425182922
+    second: Shadow Poppu_47
+  - first:
+      213: -3705335785712642641
+    second: Shadow Poppu_48
+  - first:
+      213: 6408780177065425350
+    second: Shadow Poppu_49
+  - first:
+      213: -4832388548920116446
+    second: Shadow Poppu_50
+  - first:
+      213: -5290387080749939514
+    second: Shadow Poppu_51
+  - first:
+      213: 7160951686549401188
+    second: Shadow Poppu_52
+  - first:
+      213: 7714611169559098412
+    second: Shadow Poppu_53
+  - first:
+      213: 6485237024980755586
+    second: Shadow Poppu_54
+  - first:
+      213: -1282792145739844755
+    second: Shadow Poppu_55
+  - first:
+      213: -8308408228886185047
+    second: Shadow Poppu_56
+  - first:
+      213: -2732351129396129137
+    second: Shadow Poppu_57
+  - first:
+      213: 8156451596667516890
+    second: Shadow Poppu_58
+  - first:
+      213: -325947094451324610
+    second: Shadow Poppu_59
+  - first:
+      213: -7984155880585561045
+    second: Shadow Poppu_60
+  - first:
+      213: -1419316785188003688
+    second: Shadow Poppu_61
+  - first:
+      213: -7038140579132266325
+    second: Shadow Poppu_62
+  - first:
+      213: -2911139202526230628
+    second: Shadow Poppu_63
+  - first:
+      213: -2961367402387641824
+    second: Shadow Poppu_64
+  - first:
+      213: -130883402883181830
+    second: Shadow Poppu_65
+  - first:
+      213: -6890863384403585225
+    second: Shadow Poppu_66
+  - first:
+      213: 7748576412415344714
+    second: Shadow Poppu_67
+  - first:
+      213: -2074412792751269085
+    second: Shadow Poppu_68
+  - first:
+      213: 4348367404644482870
+    second: Shadow Poppu_69
+  - first:
+      213: -1549576913189582886
+    second: Shadow Poppu_70
+  - first:
+      213: 3517229792102111863
+    second: Shadow Poppu_71
+  - first:
+      213: 7770466352927484124
+    second: Shadow Poppu_72
+  - first:
+      213: 2882558410262547085
+    second: Shadow Poppu_73
+  - first:
+      213: -2885304316771649516
+    second: Shadow Poppu_74
+  - first:
+      213: 6550168494418167266
+    second: Shadow Poppu_75
+  - first:
+      213: 6990989219244957073
+    second: Shadow Poppu_76
+  - first:
+      213: 2230639055689058051
+    second: Shadow Poppu_77
+  - first:
+      213: 5851449326616816867
+    second: Shadow Poppu_78
+  - first:
+      213: -6100980463190858110
+    second: Shadow Poppu_79
+  - first:
+      213: -1137626730629349316
+    second: Shadow Poppu_80
+  - first:
+      213: 1249900973149788089
+    second: Shadow Poppu_81
+  - first:
+      213: -8207890243261770717
+    second: Shadow Poppu_82
+  - first:
+      213: 2261755500533184221
+    second: Shadow Poppu_83
+  - first:
+      213: -892128227522352216
+    second: Shadow Poppu_84
+  - first:
+      213: -4028083131611452490
+    second: Shadow Poppu_85
+  - first:
+      213: -5915876122136052311
+    second: Shadow Poppu_86
+  - first:
+      213: -3994936218251059067
+    second: Shadow Poppu_87
+  - first:
+      213: 1856946944857954565
+    second: Shadow Poppu_88
+  - first:
+      213: -5254070525761622950
+    second: Shadow Poppu_89
+  - first:
+      213: -1329215815756348263
+    second: Shadow Poppu_90
+  - first:
+      213: -3012184401315974969
+    second: Shadow Poppu_91
+  - first:
+      213: -2201745798193740663
+    second: Shadow Poppu_92
+  - first:
+      213: -6607892542314033541
+    second: Shadow Poppu_93
+  - first:
+      213: -74729278875789914
+    second: Shadow Poppu_94
+  - first:
+      213: -3848568181246314097
+    second: Shadow Poppu_95
+  - first:
+      213: 6689130708165138560
+    second: Shadow Poppu_96
+  - first:
+      213: -320361564515932741
+    second: Shadow Poppu_97
+  - first:
+      213: 2208351827753056790
+    second: Shadow Poppu_98
+  - first:
+      213: 6255218896778776677
+    second: Shadow Poppu_99
+  - first:
+      213: 1315656127373016732
+    second: Shadow Poppu_100
+  - first:
+      213: -6825422554121277787
+    second: Shadow Poppu_101
+  - first:
+      213: -7887502469710555476
+    second: Shadow Poppu_102
+  - first:
+      213: 1534255375020038216
+    second: Shadow Poppu_103
+  - first:
+      213: 7948277007248731202
+    second: Shadow Poppu_104
+  - first:
+      213: -8635568249820035252
+    second: Shadow Poppu_105
+  - first:
+      213: -3725007000685381575
+    second: Shadow Poppu_106
+  - first:
+      213: -3300960137054240506
+    second: Shadow Poppu_107
+  - first:
+      213: 8915726325389440375
+    second: Shadow Poppu_108
+  - first:
+      213: 171713051827833953
+    second: Shadow Poppu_109
+  - first:
+      213: -5553113308594780515
+    second: Shadow Poppu_110
+  - first:
+      213: 4629356693927412015
+    second: Shadow Poppu_111
+  - first:
+      213: 938531827435151789
+    second: Shadow Poppu_112
+  - first:
+      213: -5328960477626395907
+    second: Shadow Poppu_113
+  - first:
+      213: 5218847837931537150
+    second: Shadow Poppu_114
+  - first:
+      213: -7074570920676498573
+    second: Shadow Poppu_115
+  - first:
+      213: -6256170211627683218
+    second: Shadow Poppu_116
+  - first:
+      213: -463826734299207300
+    second: Shadow Poppu_117
+  - first:
+      213: 2149955942943676510
+    second: Shadow Poppu_118
+  - first:
+      213: 2835571702594609645
+    second: Shadow Poppu_119
+  - first:
+      213: 4610323063217751859
+    second: Shadow Poppu_120
+  - first:
+      213: 999294188188865672
+    second: Shadow Poppu_121
+  - first:
+      213: 7770256655899998876
+    second: Shadow Poppu_122
+  - first:
+      213: -1445294072693775740
+    second: Shadow Poppu_123
+  - first:
+      213: -8230101897056420079
+    second: Shadow Poppu_124
+  - first:
+      213: -2006445217935628461
+    second: Shadow Poppu_125
+  - first:
+      213: -1749079464601112554
+    second: Shadow Poppu_126
+  - first:
+      213: -5967943380869589457
+    second: Shadow Poppu_127
+  - first:
+      213: -1116748308957792704
+    second: Shadow Poppu_128
+  - first:
+      213: -897244505476755326
+    second: Shadow Poppu_129
+  - first:
+      213: 4820910697641328731
+    second: Shadow Poppu_130
+  - first:
+      213: -4467407835627452565
+    second: Shadow Poppu_131
+  - first:
+      213: -2804237878042501990
+    second: Shadow Poppu_132
+  - first:
+      213: 8070659525770476588
+    second: Shadow Poppu_133
+  - first:
+      213: -6900444891027801824
+    second: Shadow Poppu_134
+  - first:
+      213: -4138145621339242593
+    second: Shadow Poppu_135
+  - first:
+      213: -5229344002662377786
+    second: Shadow Poppu_136
+  - first:
+      213: -8389189437471090880
+    second: Shadow Poppu_137
+  - first:
+      213: -8756097487874952556
+    second: Shadow Poppu_138
+  - first:
+      213: -8110461227387668753
+    second: Shadow Poppu_139
+  - first:
+      213: -3789037456059639449
+    second: Shadow Poppu_140
+  - first:
+      213: 8286731728185783999
+    second: Shadow Poppu_141
+  - first:
+      213: 8714436199219277246
+    second: Shadow Poppu_142
+  - first:
+      213: -5374114509678234342
+    second: Shadow Poppu_143
+  - first:
+      213: -5011875216547766860
+    second: Shadow Poppu_144
+  - first:
+      213: -5516168517004612633
+    second: Shadow Poppu_145
+  - first:
+      213: -6210348887288066276
+    second: Shadow Poppu_146
+  - first:
+      213: 2940088725551029408
+    second: Shadow Poppu_147
+  - first:
+      213: 6237867079425577966
+    second: Shadow Poppu_148
+  - first:
+      213: -6940013572515401573
+    second: Shadow Poppu_149
+  - first:
+      213: 2357305679965077184
+    second: Shadow Poppu_150
+  - first:
+      213: -6648597224818778577
+    second: Shadow Poppu_151
+  - first:
+      213: 6895456482448329141
+    second: Shadow Poppu_152
+  - first:
+      213: 337081581890510093
+    second: Shadow Poppu_153
+  - first:
+      213: 2477070309146683806
+    second: Shadow Poppu_154
+  - first:
+      213: -2689590746689140695
+    second: Shadow Poppu_155
+  - first:
+      213: -9117167392508059658
+    second: Shadow Poppu_156
+  - first:
+      213: -8487535743902068949
+    second: Shadow Poppu_157
+  - first:
+      213: -4263947561134926227
+    second: Shadow Poppu_158
+  - first:
+      213: 5824379091325560369
+    second: Shadow Poppu_159
+  - first:
+      213: -3335982119442615445
+    second: Shadow Poppu_160
+  - first:
+      213: 4196902700823574785
+    second: Shadow Poppu_161
+  - first:
+      213: 8676685620588766511
+    second: Shadow Poppu_162
+  - first:
+      213: 1920598312171527655
+    second: Shadow Poppu_163
+  - first:
+      213: 1036793942543842370
+    second: Shadow Poppu_164
+  - first:
+      213: 3591668402231951499
+    second: Shadow Poppu_165
+  - first:
+      213: 1261473308539357333
+    second: Shadow Poppu_166
+  - first:
+      213: 6778795763053538683
+    second: Shadow Poppu_167
+  - first:
+      213: 5985739234728740201
+    second: Shadow Poppu_168
+  - first:
+      213: 1419341320343776262
+    second: Shadow Poppu_169
+  - first:
+      213: 7114774988756229773
+    second: Shadow Poppu_170
+  - first:
+      213: -8827249373901524891
+    second: Shadow Poppu_171
+  - first:
+      213: 350618467453969334
+    second: Shadow Poppu_172
+  - first:
+      213: -3043812114459322601
+    second: Shadow Poppu_173
+  - first:
+      213: -6168471996000169432
+    second: Shadow Poppu_174
+  - first:
+      213: -6966487311916373554
+    second: Shadow Poppu_175
+  - first:
+      213: -1839950948503434304
+    second: Shadow Poppu_176
+  - first:
+      213: 1326682791518166344
+    second: Shadow Poppu_177
+  - first:
+      213: -709721551832563590
+    second: Shadow Poppu_178
+  - first:
+      213: -6262710579536786441
+    second: Shadow Poppu_179
+  - first:
+      213: -6865871323396953908
+    second: Shadow Poppu_180
+  - first:
+      213: -4513382506149716679
+    second: Shadow Poppu_181
+  - first:
+      213: 1162688644126199213
+    second: Shadow Poppu_182
+  - first:
+      213: 8660914037807150371
+    second: Shadow Poppu_183
+  - first:
+      213: 479557802962706558
+    second: Shadow Poppu_184
+  - first:
+      213: -6429945252710712785
+    second: Shadow Poppu_185
+  - first:
+      213: -1136417263632355657
+    second: Shadow Poppu_186
+  - first:
+      213: 7004536340868375487
+    second: Shadow Poppu_187
+  - first:
+      213: 6754595190047367741
+    second: Shadow Poppu_188
+  - first:
+      213: 1062544705594825833
+    second: Shadow Poppu_189
+  - first:
+      213: 8556467255311091881
+    second: Shadow Poppu_190
+  - first:
+      213: 7762103401399583166
+    second: Shadow Poppu_191
+  - first:
+      213: 7039420435163231868
+    second: Shadow Poppu_192
+  - first:
+      213: 9010546026119065719
+    second: Shadow Poppu_193
+  - first:
+      213: 8540354478453447934
+    second: Shadow Poppu_194
+  - first:
+      213: -4975446360157490354
+    second: Shadow Poppu_195
+  - first:
+      213: 8614692773155398152
+    second: Shadow Poppu_196
+  - first:
+      213: 4190692641625046087
+    second: Shadow Poppu_197
+  - first:
+      213: -6026209321484717155
+    second: Shadow Poppu_198
+  - first:
+      213: 5898774037716787871
+    second: Shadow Poppu_199
+  - first:
+      213: 1156390803842380052
+    second: Shadow Poppu_200
+  - first:
+      213: -3458843444904095715
+    second: Shadow Poppu_201
+  - first:
+      213: 5100718824054483611
+    second: Shadow Poppu_202
+  - first:
+      213: 7470094900226717025
+    second: Shadow Poppu_203
+  - first:
+      213: -5946593831583381288
+    second: Shadow Poppu_204
+  - first:
+      213: -5042213316514051212
+    second: Shadow Poppu_205
+  - first:
+      213: 243599878544256177
+    second: Shadow Poppu_206
+  - first:
+      213: 7650616690555649898
+    second: Shadow Poppu_207
+  - first:
+      213: -9203010679391610787
+    second: Shadow Poppu_208
+  - first:
+      213: -8560686218987593627
+    second: Shadow Poppu_209
+  - first:
+      213: 2834615437185316512
+    second: Shadow Poppu_210
+  - first:
+      213: 3377010504205231139
+    second: Shadow Poppu_211
+  - first:
+      213: 8935855840839357643
+    second: Shadow Poppu_212
+  - first:
+      213: -6080395700914745928
+    second: Shadow Poppu_213
+  - first:
+      213: 7497807128055818182
+    second: Shadow Poppu_214
+  - first:
+      213: -1028941964844728024
+    second: Shadow Poppu_215
+  - first:
+      213: -8486299163151594264
+    second: Shadow Poppu_216
+  - first:
+      213: -8014645609270720345
+    second: Shadow Poppu_217
+  - first:
+      213: 6818808771981040417
+    second: Shadow Poppu_218
+  - first:
+      213: -4749025575072624388
+    second: Shadow Poppu_219
+  - first:
+      213: 124100378447630165
+    second: Shadow Poppu_220
+  - first:
+      213: -2243491756626404638
+    second: Shadow Poppu_221
+  - first:
+      213: -8446993486339312846
+    second: Shadow Poppu_222
+  - first:
+      213: -1860846767711584180
+    second: Shadow Poppu_223
+  - first:
+      213: 4033894845112286756
+    second: Shadow Poppu_224
+  - first:
+      213: -2447870984996905346
+    second: Shadow Poppu_225
+  - first:
+      213: -4083284426817080518
+    second: Shadow Poppu_226
+  - first:
+      213: 5086589942306883080
+    second: Shadow Poppu_227
+  - first:
+      213: -3527804424399579291
+    second: Shadow Poppu_228
+  - first:
+      213: 4192877207033726569
+    second: Shadow Poppu_229
+  - first:
+      213: 5820503579640470330
+    second: Shadow Poppu_230
+  - first:
+      213: -4295097183491352839
+    second: Shadow Poppu_231
+  - first:
+      213: -3976444864362791877
+    second: Shadow Poppu_232
+  - first:
+      213: 9180384987233830519
+    second: Shadow Poppu_233
+  - first:
+      213: -7040974572759924884
+    second: Shadow Poppu_234
+  - first:
+      213: 2151715035872252244
+    second: Shadow Poppu_235
+  - first:
+      213: -5848749350760058456
+    second: Shadow Poppu_236
+  - first:
+      213: -3417619075562376006
+    second: Shadow Poppu_237
+  - first:
+      213: 4480646898976036818
+    second: Shadow Poppu_238
+  - first:
+      213: -7423215661142507476
+    second: Shadow Poppu_239
+  - first:
+      213: 3296515850698209222
+    second: Shadow Poppu_240
+  - first:
+      213: -1008825753564926791
+    second: Shadow Poppu_241
+  - first:
+      213: 8382061316448617308
+    second: Shadow Poppu_242
+  - first:
+      213: -7828739812295831565
+    second: Shadow Poppu_243
+  - first:
+      213: 3578967587606592491
+    second: Shadow Poppu_244
+  - first:
+      213: -4118759501731835282
+    second: Shadow Poppu_245
+  - first:
+      213: 6637570272914789870
+    second: Shadow Poppu_246
+  - first:
+      213: -4474079522506676751
+    second: Shadow Poppu_247
+  - first:
+      213: -1640617141892938641
+    second: Shadow Poppu_248
+  - first:
+      213: -5161978837140173567
+    second: Shadow Poppu_249
+  - first:
+      213: 8588892798902737419
+    second: Shadow Poppu_250
+  - first:
+      213: -695076192651630466
+    second: Shadow Poppu_251
+  - first:
+      213: 6957514607629628176
+    second: Shadow Poppu_252
+  - first:
+      213: 2770826778090012988
+    second: Shadow Poppu_253
+  - first:
+      213: -6338085512448845033
+    second: Shadow Poppu_254
+  - first:
+      213: -1689082572006967705
+    second: Shadow Poppu_255
+  - first:
+      213: 947465454779480210
+    second: Shadow Poppu_256
+  - first:
+      213: -2557321773605025859
+    second: Shadow Poppu_257
+  - first:
+      213: 8892154004819524382
+    second: Shadow Poppu_258
+  - first:
+      213: -368223901846956774
+    second: Shadow Poppu_259
+  - first:
+      213: -6981101377709854702
+    second: Shadow Poppu_260
+  - first:
+      213: -77524113224661338
+    second: Shadow Poppu_261
+  - first:
+      213: -2775447664544006870
+    second: Shadow Poppu_262
+  - first:
+      213: -6214596880591427976
+    second: Shadow Poppu_263
+  - first:
+      213: -5507605306751190477
+    second: Shadow Poppu_264
+  - first:
+      213: -263780959310103759
+    second: Shadow Poppu_265
+  - first:
+      213: -3143823957195475822
+    second: Shadow Poppu_266
+  - first:
+      213: -3437707042553654700
+    second: Shadow Poppu_267
+  - first:
+      213: -8266987554901283941
+    second: Shadow Poppu_268
+  - first:
+      213: 5657377887306883725
+    second: Shadow Poppu_269
+  - first:
+      213: -5859410706967076393
+    second: Shadow Poppu_270
+  - first:
+      213: -6158494830186842489
+    second: Shadow Poppu_271
+  - first:
+      213: -8909671020808823342
+    second: Shadow Poppu_272
+  - first:
+      213: -4480217505163964720
+    second: Shadow Poppu_273
+  - first:
+      213: -2467897902107481563
+    second: Shadow Poppu_274
+  - first:
+      213: -8404852948904179713
+    second: Shadow Poppu_275
+  - first:
+      213: -747738224131073809
+    second: Shadow Poppu_276
+  - first:
+      213: -5275142406946174742
+    second: Shadow Poppu_277
+  - first:
+      213: -2801237557775711886
+    second: Shadow Poppu_278
+  - first:
+      213: -8542995026728509318
+    second: Shadow Poppu_279
+  - first:
+      213: 6147051295156829135
+    second: Shadow Poppu_280
+  - first:
+      213: 1008947140235470792
+    second: Shadow Poppu_281
+  - first:
+      213: 5005293931821750364
+    second: Shadow Poppu_282
+  - first:
+      213: -6723353079282916552
+    second: Shadow Poppu_283
+  - first:
+      213: 180068309496571784
+    second: Shadow Poppu_284
+  - first:
+      213: 3189332064988863021
+    second: Shadow Poppu_285
+  - first:
+      213: 3486097573941940973
+    second: Shadow Poppu_286
+  - first:
+      213: -5991726920409268014
+    second: Shadow Poppu_287
+  - first:
+      213: 3609150064206787149
+    second: Shadow Poppu_288
+  - first:
+      213: -2863311495246758385
+    second: Shadow Poppu_289
+  - first:
+      213: 1279196382983250220
+    second: Shadow Poppu_290
+  - first:
+      213: 7260613229937097176
+    second: Shadow Poppu_291
+  - first:
+      213: 1565709459906724918
+    second: Shadow Poppu_292
+  - first:
+      213: 8727293586686279154
+    second: Shadow Poppu_293
+  - first:
+      213: -3516667872998229583
+    second: Shadow Poppu_294
+  - first:
+      213: 7202130082716165986
+    second: Shadow Poppu_295
+  - first:
+      213: -947113695008699914
+    second: Shadow Poppu_296
+  - first:
+      213: 8547894683120755383
+    second: Shadow Poppu_297
+  - first:
+      213: 540617746969966054
+    second: Shadow Poppu_298
+  - first:
+      213: -7985565469856044523
+    second: Shadow Poppu_299
+  - first:
+      213: 7234434627132810940
+    second: Shadow Poppu_300
+  - first:
+      213: 1101300538873311426
+    second: Shadow Poppu_301
+  - first:
+      213: -3155006297305149224
+    second: Shadow Poppu_302
+  - first:
+      213: -4128810867225215942
+    second: Shadow Poppu_303
+  - first:
+      213: -3823255166097798957
+    second: Shadow Poppu_304
+  - first:
+      213: 1603125564958648970
+    second: Shadow Poppu_305
+  - first:
+      213: -4177364252408764135
+    second: Shadow Poppu_306
+  - first:
+      213: -2065188635441259540
+    second: Shadow Poppu_307
+  - first:
+      213: 2227608967947710266
+    second: Shadow Poppu_308
+  - first:
+      213: -6396652437082973743
+    second: Shadow Poppu_309
+  - first:
+      213: -4285235892505608069
+    second: Shadow Poppu_310
+  - first:
+      213: 4624291779483648839
+    second: Shadow Poppu_311
+  - first:
+      213: 9161001040418918131
+    second: Shadow Poppu_312
+  - first:
+      213: 2057570493152132082
+    second: Shadow Poppu_313
+  - first:
+      213: 4010521005890829583
+    second: Shadow Poppu_314
+  - first:
+      213: -4324979465058152258
+    second: Shadow Poppu_315
+  - first:
+      213: -4124624978461791195
+    second: Shadow Poppu_316
+  - first:
+      213: -4513050514274397513
+    second: Shadow Poppu_317
+  - first:
+      213: 4896388259496325828
+    second: Shadow Poppu_318
+  - first:
+      213: -6894975222946278114
+    second: Shadow Poppu_319
+  - first:
+      213: 6195298551709207244
+    second: Shadow Poppu_320
+  - first:
+      213: -6775968651330617484
+    second: Shadow Poppu_321
+  - first:
+      213: 43838798694095925
+    second: Shadow Poppu_322
+  - first:
+      213: -4459588830370352757
+    second: Shadow Poppu_323
+  - first:
+      213: -1077774668603113720
+    second: Shadow Poppu_324
+  - first:
+      213: -5375245861645829252
+    second: Shadow Poppu_325
+  - first:
+      213: -2480928952842327051
+    second: Shadow Poppu_326
+  - first:
+      213: -8262479343332797053
+    second: Shadow Poppu_327
+  - first:
+      213: -9040216942314695952
+    second: Shadow Poppu_328
+  - first:
+      213: 2101563081091953129
+    second: Shadow Poppu_329
+  - first:
+      213: 8952653354271296473
+    second: Shadow Poppu_330
+  - first:
+      213: 8612528670452099900
+    second: Shadow Poppu_331
+  - first:
+      213: -521532745683122922
+    second: Shadow Poppu_332
+  - first:
+      213: -7854006279137209099
+    second: Shadow Poppu_333
+  - first:
+      213: 1684274081341412208
+    second: Shadow Poppu_334
+  - first:
+      213: 4940471348704370495
+    second: Shadow Poppu_335
+  - first:
+      213: 1726456437602246870
+    second: Shadow Poppu_336
+  - first:
+      213: -1956749224873129148
+    second: Shadow Poppu_337
+  - first:
+      213: 1016477315722308109
+    second: Shadow Poppu_338
+  - first:
+      213: -2193746365535386304
+    second: Shadow Poppu_339
+  - first:
+      213: 1631069219696206591
+    second: Shadow Poppu_340
+  - first:
+      213: 6284101863819441200
+    second: Shadow Poppu_341
+  - first:
+      213: -2941186108860978071
+    second: Shadow Poppu_342
+  - first:
+      213: 405655231205910784
+    second: Shadow Poppu_343
+  - first:
+      213: 8732765146264136270
+    second: Shadow Poppu_344
+  - first:
+      213: 8102233369061624094
+    second: Shadow Poppu_345
+  - first:
+      213: -2357696026195176436
+    second: Shadow Poppu_346
+  - first:
+      213: 9031117311632051689
+    second: Shadow Poppu_347
+  - first:
+      213: 508915719525545764
+    second: Shadow Poppu_348
+  - first:
+      213: 2121335703140579360
+    second: Shadow Poppu_349
+  - first:
+      213: 2435908356427144258
+    second: Shadow Poppu_350
+  - first:
+      213: 6957444452245514198
+    second: Shadow Poppu_351
+  - first:
+      213: -1783261647635766151
+    second: Shadow Poppu_352
+  - first:
+      213: 5171599509354488083
+    second: Shadow Poppu_353
+  - first:
+      213: -7218106100589267514
+    second: Shadow Poppu_354
+  - first:
+      213: 4827017066002390411
+    second: Shadow Poppu_355
+  - first:
+      213: 5854048741510443837
+    second: Shadow Poppu_356
+  - first:
+      213: 2541241050114378967
+    second: Shadow Poppu_357
+  - first:
+      213: -8470448476077211108
+    second: Shadow Poppu_358
+  - first:
+      213: 476867779583011610
+    second: Shadow Poppu_359
+  - first:
+      213: 6733042621744261003
+    second: Shadow Poppu_360
+  - first:
+      213: 2045305724091414817
+    second: Shadow Poppu_361
+  - first:
+      213: -2423586087270270249
+    second: Shadow Poppu_362
+  - first:
+      213: 1584835272177729828
+    second: Shadow Poppu_363
+  - first:
+      213: 7388374873654344465
+    second: Shadow Poppu_364
+  - first:
+      213: -8389156640848874650
+    second: Shadow Poppu_365
+  - first:
+      213: 253122899622792603
+    second: Shadow Poppu_366
+  - first:
+      213: -8115476241876792923
+    second: Shadow Poppu_367
+  - first:
+      213: -8024885825312860074
+    second: Shadow Poppu_368
+  - first:
+      213: 9067990277697931876
+    second: Shadow Poppu_369
+  - first:
+      213: -5198202995839557160
+    second: Shadow Poppu_370
+  - first:
+      213: 2329753226620182688
+    second: Shadow Poppu_371
+  - first:
+      213: -4502075091107231876
+    second: Shadow Poppu_372
+  - first:
+      213: 7759576363477140867
+    second: Shadow Poppu_373
+  - first:
+      213: -3705936068174339741
+    second: Shadow Poppu_374
+  - first:
+      213: -4729745288151544914
+    second: Shadow Poppu_375
+  - first:
+      213: -2608959701307532267
+    second: Shadow Poppu_376
+  - first:
+      213: -633169334498753235
+    second: Shadow Poppu_377
+  - first:
+      213: 3903182070906213296
+    second: Shadow Poppu_378
+  - first:
+      213: 4728641934620602517
+    second: Shadow Poppu_379
+  - first:
+      213: -4037012930892157953
+    second: Shadow Poppu_380
+  - first:
+      213: -7563849755030351854
+    second: Shadow Poppu_381
+  - first:
+      213: -3083926898940540553
+    second: Shadow Poppu_382
+  - first:
+      213: -6410190361935840336
+    second: Shadow Poppu_383
+  - first:
+      213: 2028674104868278067
+    second: Shadow Poppu_384
+  - first:
+      213: 2595432718827501325
+    second: Shadow Poppu_385
+  - first:
+      213: -2661207392270221145
+    second: Shadow Poppu_386
+  - first:
+      213: -5398879290150858177
+    second: Shadow Poppu_387
+  - first:
+      213: 6783643430975701707
+    second: Shadow Poppu_388
+  - first:
+      213: 2463103799430881852
+    second: Shadow Poppu_389
+  - first:
+      213: -5403219964769169604
+    second: Shadow Poppu_390
+  - first:
+      213: 1343182489016624301
+    second: Shadow Poppu_391
+  - first:
+      213: 3794276679941163733
+    second: Shadow Poppu_392
+  - first:
+      213: 2958735304772661818
+    second: Shadow Poppu_393
+  - first:
+      213: -1142956255178258612
+    second: Shadow Poppu_394
+  - first:
+      213: 8359130958977444997
+    second: Shadow Poppu_395
+  - first:
+      213: 5996855616663659178
+    second: Shadow Poppu_396
+  - first:
+      213: -1098652354026656230
+    second: Shadow Poppu_397
+  - first:
+      213: -45439100022625850
+    second: Shadow Poppu_398
+  - first:
+      213: 3129321831006240673
+    second: Shadow Poppu_399
+  - first:
+      213: -7053046043169926667
+    second: Shadow Poppu_400
+  - first:
+      213: -348846190192266912
+    second: Shadow Poppu_401
+  - first:
+      213: 4488715753510493476
+    second: Shadow Poppu_402
+  - first:
+      213: -8460479542482264072
+    second: Shadow Poppu_403
+  - first:
+      213: 7315365699568108532
+    second: Shadow Poppu_404
+  - first:
+      213: 2399350535276286322
+    second: Shadow Poppu_405
+  - first:
+      213: 5524445661857726399
+    second: Shadow Poppu_406
+  - first:
+      213: 8090034610899457503
+    second: Shadow Poppu_407
+  - first:
+      213: 6854272733470889149
+    second: Shadow Poppu_408
+  - first:
+      213: -6732590740442167131
+    second: Shadow Poppu_409
+  - first:
+      213: -3413485403142821076
+    second: Shadow Poppu_410
+  - first:
+      213: 3286901105774747654
+    second: Shadow Poppu_411
+  - first:
+      213: 5432930875664982312
+    second: Shadow Poppu_412
+  - first:
+      213: -823588224416962752
+    second: Shadow Poppu_413
+  - first:
+      213: 8118373571731864110
+    second: Shadow Poppu_414
+  - first:
+      213: -5938618911113811436
+    second: Shadow Poppu_415
+  - first:
+      213: 4003192731568906596
+    second: Shadow Poppu_416
+  - first:
+      213: -1053640665349122234
+    second: Shadow Poppu_417
+  - first:
+      213: 7122618972756641614
+    second: Shadow Poppu_418
+  - first:
+      213: -4711336876625112470
+    second: Shadow Poppu_419
+  - first:
+      213: -9055331409416212880
+    second: Shadow Poppu_420
+  - first:
+      213: 6228330186375852163
+    second: Shadow Poppu_421
+  - first:
+      213: -5771339919765394964
+    second: Shadow Poppu_422
+  - first:
+      213: -1646993475085646986
+    second: Shadow Poppu_423
+  - first:
+      213: -1550589940715096791
+    second: Shadow Poppu_424
+  - first:
+      213: 7597868402253966510
+    second: Shadow Poppu_425
+  - first:
+      213: 4439261512576958460
+    second: Shadow Poppu_426
+  - first:
+      213: -3742438762197822781
+    second: Shadow Poppu_427
+  - first:
+      213: -4991912084943716976
+    second: Shadow Poppu_428
+  - first:
+      213: 4958784067973298151
+    second: Shadow Poppu_429
+  - first:
+      213: 4281459592300441663
+    second: Shadow Poppu_430
+  - first:
+      213: 3573931204828103822
+    second: Shadow Poppu_431
+  - first:
+      213: 6702744654921314307
+    second: Shadow Poppu_432
+  - first:
+      213: 704801765757982483
+    second: Shadow Poppu_433
+  - first:
+      213: 965604334497547417
+    second: Shadow Poppu_434
+  - first:
+      213: 962059358684389570
+    second: Shadow Poppu_435
+  - first:
+      213: 3278022913833665270
+    second: Shadow Poppu_436
+  - first:
+      213: -5352044134592659845
+    second: Shadow Poppu_437
+  - first:
+      213: 8842059154917979380
+    second: Shadow Poppu_438
+  - first:
+      213: -2363625315105955147
+    second: Shadow Poppu_439
+  - first:
+      213: -3162586561871125000
+    second: Shadow Poppu_440
+  - first:
+      213: 2597887245325635187
+    second: Shadow Poppu_441
+  - first:
+      213: 2419516455616631006
+    second: Shadow Poppu_442
+  - first:
+      213: 916298197565644400
+    second: Shadow Poppu_443
+  - first:
+      213: 7664281869529344094
+    second: Shadow Poppu_444
+  - first:
+      213: 204612529709293438
+    second: Shadow Poppu_445
+  - first:
+      213: -1749013940281934267
+    second: Shadow Poppu_446
+  - first:
+      213: 4053755228157093028
+    second: Shadow Poppu_447
+  - first:
+      213: -4610845864368940756
+    second: Shadow Poppu_448
+  - first:
+      213: 8875006794966367480
+    second: Shadow Poppu_449
+  - first:
+      213: -3468867174225113971
+    second: Shadow Poppu_450
+  - first:
+      213: -4478928476620265679
+    second: Shadow Poppu_451
+  - first:
+      213: 1299401039982472603
+    second: Shadow Poppu_452
+  - first:
+      213: 6854318724000505863
+    second: Shadow Poppu_453
+  - first:
+      213: -4389152843979471622
+    second: Shadow Poppu_454
+  - first:
+      213: 7655553657453290902
+    second: Shadow Poppu_455
+  - first:
+      213: 8606241361727886915
+    second: Shadow Poppu_456
+  - first:
+      213: 1347150424910133070
+    second: Shadow Poppu_457
+  - first:
+      213: 5831879427524096124
+    second: Shadow Poppu_458
+  - first:
+      213: 9177383737891523459
+    second: Shadow Poppu_459
+  - first:
+      213: 4559672666261551983
+    second: Shadow Poppu_460
+  - first:
+      213: 1144742660677658956
+    second: Shadow Poppu_461
+  - first:
+      213: 1386850653893560346
+    second: Shadow Poppu_462
+  - first:
+      213: -8747528776838499175
+    second: Shadow Poppu_463
+  - first:
+      213: -3326813572153671119
+    second: Shadow Poppu_464
+  - first:
+      213: 7779893701191472274
+    second: Shadow Poppu_465
+  - first:
+      213: -9113164207012264379
+    second: Shadow Poppu_466
+  - first:
+      213: 2532851169937609316
+    second: Shadow Poppu_467
+  - first:
+      213: -228468451370065439
+    second: Shadow Poppu_468
+  - first:
+      213: 616434707537421415
+    second: Shadow Poppu_469
+  - first:
+      213: -133237940548205893
+    second: Shadow Poppu_470
+  - first:
+      213: -4686090824318147736
+    second: Shadow Poppu_471
+  - first:
+      213: 6753832733084278106
+    second: Shadow Poppu_472
+  - first:
+      213: -8804902524306113339
+    second: Shadow Poppu_473
+  - first:
+      213: -8165604441328866662
+    second: Shadow Poppu_474
+  - first:
+      213: 2607026829064003016
+    second: Shadow Poppu_475
+  - first:
+      213: -6540839690068453945
+    second: Shadow Poppu_476
+  - first:
+      213: -4381420237862835982
+    second: Shadow Poppu_477
+  - first:
+      213: 1957354776171445336
+    second: Shadow Poppu_478
+  - first:
+      213: -429140268245547772
+    second: Shadow Poppu_479
+  - first:
+      213: 5302811373093605339
+    second: Shadow Poppu_480
+  - first:
+      213: -8696102007211676902
+    second: Shadow Poppu_481
+  - first:
+      213: -2445936157133550700
+    second: Shadow Poppu_482
+  - first:
+      213: -2171868022003785735
+    second: Shadow Poppu_483
+  - first:
+      213: -1778606404080298122
+    second: Shadow Poppu_484
+  - first:
+      213: -731522374287666352
+    second: Shadow Poppu_485
+  - first:
+      213: 1843940970599589385
+    second: Shadow Poppu_486
+  - first:
+      213: 788469037113965903
+    second: Shadow Poppu_487
+  - first:
+      213: -4072312046267700146
+    second: Shadow Poppu_488
+  - first:
+      213: 6565014355278383141
+    second: Shadow Poppu_489
+  - first:
+      213: -1884627358707176564
+    second: Shadow Poppu_490
+  - first:
+      213: -2693833388432579322
+    second: Shadow Poppu_491
+  - first:
+      213: -585532765751201506
+    second: Shadow Poppu_492
+  - first:
+      213: -4849707974658420135
+    second: Shadow Poppu_493
+  - first:
+      213: -1143718074159380032
+    second: Shadow Poppu_494
+  - first:
+      213: -3272448499347839952
+    second: Shadow Poppu_495
+  - first:
+      213: 5135111782903365737
+    second: Shadow Poppu_496
+  - first:
+      213: -2310161380628079855
+    second: Shadow Poppu_497
+  - first:
+      213: -6712567740509475107
+    second: Shadow Poppu_498
+  - first:
+      213: 5405970022445055728
+    second: Shadow Poppu_499
+  - first:
+      213: -9117279207208131388
+    second: Shadow Poppu_500
+  - first:
+      213: -8088440187250446881
+    second: Shadow Poppu_501
+  - first:
+      213: 8537598825004260084
+    second: Shadow Poppu_502
+  - first:
+      213: -1934166227185238383
+    second: Shadow Poppu_503
+  - first:
+      213: -1578795220394933997
+    second: Shadow Poppu_504
+  - first:
+      213: -8765684275487703674
+    second: Shadow Poppu_505
+  - first:
+      213: -8240203742104584864
+    second: Shadow Poppu_506
+  - first:
+      213: 2121267916431405581
+    second: Shadow Poppu_507
+  - first:
+      213: -8727374982843039963
+    second: Shadow Poppu_508
+  - first:
+      213: 4803213621209255781
+    second: Shadow Poppu_509
+  - first:
+      213: 7529045088052027161
+    second: Shadow Poppu_510
+  - first:
+      213: 4951621858380757419
+    second: Shadow Poppu_511
+  - first:
+      213: -7812972404624570431
+    second: Shadow Poppu_512
+  - first:
+      213: -9173024538908797506
+    second: Shadow Poppu_513
+  - first:
+      213: 2107208035443614693
+    second: Shadow Poppu_514
+  - first:
+      213: -3178486309146378428
+    second: Shadow Poppu_515
+  - first:
+      213: 7571237849778460535
+    second: Shadow Poppu_516
+  - first:
+      213: -1717060903552130100
+    second: Shadow Poppu_517
+  - first:
+      213: -748885754827893771
+    second: Shadow Poppu_518
+  - first:
+      213: 8865954826110148335
+    second: Shadow Poppu_519
+  - first:
+      213: 3869861273855390442
+    second: Shadow Poppu_520
+  - first:
+      213: 2790469279939926420
+    second: Shadow Poppu_521
+  - first:
+      213: 5742581996140875770
+    second: Shadow Poppu_522
+  - first:
+      213: -5143207564697723979
+    second: Shadow Poppu_523
+  - first:
+      213: 931906112094584789
+    second: Shadow Poppu_524
+  - first:
+      213: -9100339456152851495
+    second: Shadow Poppu_525
+  - first:
+      213: -8810468687433173577
+    second: Shadow Poppu_526
+  - first:
+      213: 4256623490295178029
+    second: Shadow Poppu_527
+  - first:
+      213: -7782199491383352351
+    second: Shadow Poppu_528
+  - first:
+      213: -93431487852806211
+    second: Shadow Poppu_529
+  - first:
+      213: 6091985247533437924
+    second: Shadow Poppu_530
+  - first:
+      213: 8680464304564551402
+    second: Shadow Poppu_531
+  - first:
+      213: -1613081226058900094
+    second: Shadow Poppu_532
+  - first:
+      213: 3049220157522001370
+    second: Shadow Poppu_533
+  - first:
+      213: -7955663766995764967
+    second: Shadow Poppu_534
+  - first:
+      213: -8528589877093190086
+    second: Shadow Poppu_535
+  - first:
+      213: -3044629334870669271
+    second: Shadow Poppu_536
+  - first:
+      213: 1230132973662222189
+    second: Shadow Poppu_537
+  - first:
+      213: -419195957713675452
+    second: Shadow Poppu_538
+  - first:
+      213: -1960948882897215447
+    second: Shadow Poppu_539
+  - first:
+      213: 7334978029843018326
+    second: Shadow Poppu_540
+  - first:
+      213: 2209091782417279182
+    second: Shadow Poppu_541
+  - first:
+      213: 2290975651157858321
+    second: Shadow Poppu_542
+  - first:
+      213: -4962610908324000845
+    second: Shadow Poppu_543
+  - first:
+      213: 2944435561503072427
+    second: Shadow Poppu_544
+  - first:
+      213: 5184733186088992451
+    second: Shadow Poppu_545
+  - first:
+      213: -2826490904102193116
+    second: Shadow Poppu_546
+  - first:
+      213: -7867125654674841055
+    second: Shadow Poppu_547
+  - first:
+      213: 8371459505542405698
+    second: Shadow Poppu_548
+  - first:
+      213: 8299973451612425325
+    second: Shadow Poppu_549
+  - first:
+      213: -8859789972233467800
+    second: Shadow Poppu_550
+  - first:
+      213: 8784011434412338772
+    second: Shadow Poppu_551
+  - first:
+      213: -7452001472239257287
+    second: Shadow Poppu_552
+  - first:
+      213: -5299544584610071684
+    second: Shadow Poppu_553
+  - first:
+      213: -8754840625914721118
+    second: Shadow Poppu_554
+  - first:
+      213: 6863829854702175927
+    second: Shadow Poppu_555
+  - first:
+      213: 7396628146865310517
+    second: Shadow Poppu_556
+  - first:
+      213: 3802121266320822526
+    second: Shadow Poppu_557
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shadow Poppu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876db864d4a987b80800000000000000
+      internalID: -8396791848545560968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9543cfa489e995c0800000000000000
+      internalID: -4208075620707252835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760ba6ea9738a8f80800000000000000
+      internalID: -8103520020859277209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70cf0a6b84fd11c0800000000000000
+      internalID: -4531196770447802241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5122fd225512be670800000000000000
+      internalID: 8568979365543485973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e66b280da86e0d0800000000000000
+      internalID: -3393872641026265563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2358c63f816deba90800000000000000
+      internalID: -7296158943642090190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcc88d40ed040320800000000000000
+      internalID: 2523156948258966769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee532876495bf300800000000000000
+      internalID: 286921160466325231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a5e27ba9f40dd60800000000000000
+      internalID: 7912912071206787631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce86fc2845c88b90800000000000000
+      internalID: -7239319487215399217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de58f14e97e0eb280800000000000000
+      internalID: -9025760686522792467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca3c010578c77d80800000000000000
+      internalID: -8252907387278837041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ceb2c3863853b50800000000000000
+      internalID: 6572303714926455936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24001b525e818af10800000000000000
+      internalID: 2281100583722090562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da4444455eebca70800000000000000
+      internalID: 8848427942884428496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7549d70ba730cdeb0800000000000000
+      internalID: -4693872886144986025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca93f2867ff37a80800000000000000
+      internalID: -8470145589685544256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18ef327019625700800000000000000
+      internalID: 527599625712953375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41a46e5f60463b70800000000000000
+      internalID: 8878354562476712267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6f4c8019975cf10800000000000000
+      internalID: 2289369649412110042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84820f4f837a91a0800000000000000
+      internalID: -6801997227846630260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8fc7413aee16f80800000000000000
+      internalID: -8114942669354108722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd4ed5cfd3e6c3a0800000000000000
+      internalID: -6645373649901695550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c20f2ab002b19300800000000000000
+      internalID: 257182369930216130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3895ed1ce38d460800000000000000
+      internalID: 7266627001142313953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe5be076974069b0800000000000000
+      internalID: -5088988867463520513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a83977453b3143c0800000000000000
+      internalID: -4377152262808979288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd83ce8130dc21390800000000000000
+      internalID: -7848985787366623011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Poppu_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6afcddc2fea3af0800000000000000
+      internalID: -415757039599376701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
