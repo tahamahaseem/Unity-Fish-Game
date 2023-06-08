@@ -21,6 +21,7 @@ Welcome to the mesmerizing world of this Fish game! Dive into an enchanting 2D U
 
 ![Gameplay Screenshot](https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/1be1e661-8b3d-44fb-b269-c1d8e2b2a007)
 
+
 ## Assets
 
 | Melvin with Tail              | Poppy                       | Dirt and Grass               |
