@@ -23,31 +23,26 @@ Welcome to the mesmerizing world of Fish Game! Dive into an enchanting 2D Unity 
 
 ## Assets
 
-## Assets
-
 ### Melvin with Tail
-<img src="https://github.com/tahamahaseem/Unity-Fish-Game/raw/main/assets/52297139/ecb6f5b0-1201-49a2-99a8-8dbaf83a5940.png" alt="Melvin with Tail" width="200" />
+<img src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/ecb6f5b0-1201-49a2-99a8-8dbaf83a5940" alt="Melvin with Tail" width="200" />
 
 ### Poppy
-<img src="https://github.com/tahamahaseem/Unity-Fish-Game/raw/main/assets/52297139/d8fcc3d7-38ab-45e9-aad7-c344db6ae101.png" alt="Poppy" width="200" />
+<img src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/d8fcc3d7-38ab-45e9-aad7-c344db6ae101" alt="Poppy" width="200" />
 
 ### Dirt and Grass
-<img src="https://github.com/tahamahaseem/Unity-Fish-Game/raw/main/assets/52297139/5f4c326c-96e8-43cd-b958-e9386989c5a1.png" alt="Dirt and Grass" width="200" />
+<img src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/5f4c326c-96e8-43cd-b958-e9386989c5a1" alt="Dirt and Grass" width="200" />
 
 ### Shroud Tiles - Brown
-<img src="https://github.com/tahamahaseem/Unity-Fish-Game/raw/main/assets/52297139/0f67de09-fb3b-4386-a700-c7e2ad9e5612.png" alt="Shroud Tiles - Brown" width="200" />
+<img src="[https://github.com/tahamahaseem/Unity-Fish-Game/raw/main/assets/52297139/0f67de09-fb3b-4386-a700-c7e2ad9e5612.png](https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/0f67de09-fb3b-4386-a700-c7e2ad9e5612)" alt="Shroud Tiles - Brown" width="200" />
 
 ### Burg
-<img src="https://github.com/tahamahaseem/Unity-Fish-Game/raw/main/assets/52297139/5750de76-700a-4fa2-970f-3300dc6cff84.png" alt="Burg" width="200" />
+<img src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/5750de76-700a-4fa2-970f-3300dc6cff84" alt="Burg" width="200" />
 
 ### Rocks
-<img src="https://github.com/tahamahaseem/Unity-Fish-Game/raw/main/assets/52297139/6d22d1b9-af7b-40ee-a01f-b208e7f40fe7.png" alt="Rocks" width="200" />
+<img src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/6d22d1b9-af7b-40ee-a01f-b208e7f40fe7" alt="Rocks" width="200" />
 
 ### Melvin Dp
-<img src="https://github.com/tahamahaseem/Unity-Fish-Game/raw/main/assets/52297139/63f56c7c-89fd-4583-bd4a-9ad880df9dbe.png" alt="Melvin Dp" width="200" />
-
-### Melvin Song DP
-<img src="https://github.com/tahamahaseem/Unity-Fish-Game/raw/main
+<img src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/63f56c7c-89fd-4583-bd4a-9ad880df9dbe" alt="Melvin Dp" width="200" />
 
 ## Controls
 - WASD keys: Move the player fish
