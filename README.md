@@ -23,14 +23,29 @@ Welcome to the mesmerizing world of Fish Game! Dive into an enchanting 2D Unity 
 
 ## Assets
 
-- [Melvin with Tail](https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/ecb6f5b0-1201-49a2-99a8-8dbaf83a5940)
-- [Poppy](https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/d8fcc3d7-38ab-45e9-aad7-c344db6ae101)
-- [Dirt and Grass](https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/5f4c326c-96e8-43cd-b958-e9386989c5a1)
-- [Shroud Tiles - Brown](https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/0f67de09-fb3b-4386-a700-c7e2ad9e5612)
-- [Burg](https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/5750de76-700a-4fa2-970f-3300dc6cff84)
-- [Rocks](https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/6d22d1b9-af7b-40ee-a01f-b208e7f40fe7)
-- [Melvin Dp](https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/63f56c7c-89fd-4583-bd4a-9ad880df9dbe)
-- [Melvin Song DP](https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/20d7a2c8-0f77-4694-9deb-9c8d465c2169)
+### Melvin with Tail
+![Melvin with Tail](assets/melvin_with_tail.png)
+
+### Poppy
+![Poppy](assets/poppy.png)
+
+### Dirt and Grass
+![Dirt and Grass](assets/dirt_grass.png)
+
+### Shroud Tiles - Brown
+![Shroud Tiles - Brown](assets/shroud_tiles_brown.png)
+
+### Burg
+![Burg](assets/burg.png)
+
+### Rocks
+![Rocks](assets/rocks.png)
+
+### Melvin Dp
+![Melvin Dp](assets/melvin_dp.png)
+
+### Melvin Song DP
+![Melvin Song DP](assets/melvin_song_dp.png)
 
 ## Controls
 - WASD keys: Move the player fish
