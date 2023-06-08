@@ -1,6 +1,6 @@
 
 
-# Unity-Fish-Game (Currently in WORK IN PROGRESS)
+# Unity-Fish-Game (Currently a WORK IN PROGRESS)
 
 ## Description
 Welcome to the mesmerizing world of this Fish game! Dive into an enchanting 2D Unity game set in vibrant underwater realms. Experience thrilling gameplay as you devour smaller fish to restore health, outmaneuver predators, and unleash bubble projectiles. Immerse yourself in the realism of water and bubble physics, while enjoying stunning art and captivating melodies created by the developer. Game is still in current development!
