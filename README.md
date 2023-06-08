@@ -23,6 +23,8 @@ Welcome to the mesmerizing world of Fish Game! Dive into an enchanting 2D Unity 
 
 ## Assets
 
+
+
 ### Melvin with Tail
 <img src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/ecb6f5b0-1201-49a2-99a8-8dbaf83a5940" alt="Melvin with Tail" width="200" />
 
@@ -33,7 +35,7 @@ Welcome to the mesmerizing world of Fish Game! Dive into an enchanting 2D Unity 
 <img src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/5f4c326c-96e8-43cd-b958-e9386989c5a1" alt="Dirt and Grass" width="200" />
 
 ### Shroud Tiles - Brown
-<img src="[https://github.com/tahamahaseem/Unity-Fish-Game/raw/main/assets/52297139/0f67de09-fb3b-4386-a700-c7e2ad9e5612.png](https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/0f67de09-fb3b-4386-a700-c7e2ad9e5612)" alt="Shroud Tiles - Brown" width="200" />
+<img src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/0f67de09-fb3b-4386-a700-c7e2ad9e5612" alt="Shroud Tiles - Brown" width="200" />
 
 ### Burg
 <img src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/5750de76-700a-4fa2-970f-3300dc6cff84" alt="Burg" width="200" />
