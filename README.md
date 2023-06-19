@@ -15,11 +15,11 @@ Welcome to the mesmerizing world of this Fish game! Dive into an enchanting 2D U
 
 ### Gameplay
 
-##### Art Changes
+##### New Changes
 [Art Changes](
 https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/daeab716-78ae-4ba6-a713-741f78dffc01)
 
-##### Basic Gameplay
+##### Old Gameplay
 [Basic Gameplay](https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/ad3ecf63-fc69-495a-97bb-349aa4b7a41e)
 
 ##### Menu Screen
