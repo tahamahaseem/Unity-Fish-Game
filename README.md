@@ -42,7 +42,6 @@ All music is produced my Tahama Haseem (aka Crumbz) using Ableton and Soundation
 
 #### Melvin Soundtrack 
 
-<div align="center">
   <video controls width="280">
     <source src="https://github.com/tahamahaseem/Unity-Fish-Game/raw/assets/52297139/ff45c5ca-f8da-4bb7-952f-772b1188cba6.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -55,7 +54,6 @@ All music is produced my Tahama Haseem (aka Crumbz) using Ableton and Soundation
     <source src="https://github.com/tahamahaseem/Unity-Fish-Game/raw/assets/52297139/9fba2ad3-d737-4c7b-9912-9ffd15c1350a.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</div>
 
 
 
