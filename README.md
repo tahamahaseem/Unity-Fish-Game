@@ -36,6 +36,13 @@ https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/daeab716-78ae-4b
 |------------------------------|-----------------------------|------------------------------|
 | <img src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/5750de76-700a-4fa2-970f-3300dc6cff84" alt="Burg" width="200" /> | <img src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/6d22d1b9-af7b-40ee-a01f-b208e7f40fe7" alt="Rocks" width="200" /> | <img src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/63f56c7c-89fd-4583-bd4a-9ad880df9dbe" alt="Melvin Dp" width="200" /> |
 
+### Music
+
+All music is produced my Tahama Haseem (aka Crumbz) using Ableton and Soundation
+
+[Crumbz - Lost In Tranquility (Melvin Soundtrack)](
+https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/ff45c5ca-f8da-4bb7-952f-772b1188cba6)
+
 
 ## Controls
 - WASD keys: Move the player fish
