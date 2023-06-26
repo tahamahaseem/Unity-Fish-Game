@@ -42,18 +42,20 @@ All music is produced my Tahama Haseem (aka Crumbz) using Ableton and Soundation
 
 #### Melvin Soundtrack 
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">
-    <img src="video_thumbnail_1.jpg" alt="Crumbz - Lost In Tranquility" width="240" height="180" border="10" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
-    <img src="video_thumbnail_2.jpg" alt="Crumbz - Falling Apart" width="240" height="180" border="10" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_3">
-    <img src="video_thumbnail_3.jpg" alt="Crumbz - Melvin" width="240" height="180" border="10" />
-  </a>
-</div>
+<video controls>
+  <source src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/ff45c5ca-f8da-4bb7-952f-772b1188cba6" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
+<video controls>
+  <source src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/2a422abc-e0bc-44bc-a4e2-f549dd4a79ec" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video controls>
+  <source src="https://github.com/tahamahaseem/Unity-Fish-Game/assets/52297139/9fba2ad3-d737-4c7b-9912-9ffd15c1350a" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
